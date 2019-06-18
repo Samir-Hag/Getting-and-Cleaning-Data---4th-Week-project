@@ -1,5 +1,5 @@
 # Getting and Cleaning Data 4th Week Course Project
-*The purpose of this project is the 4th week cuorse project.* 
+*this project was created for the 4th week Getting and Cleaning Data course project.* 
 
 
 ## Project Description:
