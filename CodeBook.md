@@ -1,5 +1,5 @@
 # Getting and Cleaning Data course Project - Tidy dataset
-*This code book describes the tidy dataset created in this project.*
+*This code book describes the original dataset as well as the tidy dataset created in this project.*
 
 ## Original Dataset
 * Original data is available at:
