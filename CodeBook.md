@@ -44,5 +44,5 @@ For each record in the dataset it is provided:
 ## Tidy Dataset Describtion
 * the tidy dataset consist of 180 observation and 68 variable.
 * tidy dataset was created by extrating variables estimated from mean() and standard deviation 'sd()'.
-* dataset were averaged according to *subject* and *activity* grouping.
+* dataset was averaged according to *subject* and *activity* grouping.
 * All observations were *numeric* data, except **subject** (*integer*) and **activitylabel** (*factor*)
