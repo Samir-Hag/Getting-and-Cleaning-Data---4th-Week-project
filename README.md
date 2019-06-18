@@ -1,4 +1,4 @@
-# Getting and Cleaning Data 4th Week Course Project
+# Getting and Cleaning Data Course - 4th Week Course Project
 *this project was created for the 4th week Getting and Cleaning Data course project.* 
 
 
